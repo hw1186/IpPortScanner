@@ -1,8 +1,10 @@
 # IP and Port Scanner 
 
 ### requirement
-netifaces
-ttkthemes
+1.netifaces
+2.ttkthemes
+
+---
 
 1. GUI로 IP확인과 Port스캔이 가능한다.
 2. 1024개의 스레드를 동시에 생성하므로, 시스템에 부담을 줄 수 있다. 
